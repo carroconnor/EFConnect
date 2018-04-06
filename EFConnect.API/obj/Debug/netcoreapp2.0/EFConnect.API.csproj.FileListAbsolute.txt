@@ -1,0 +1,11 @@
+C:\DotNetProjects\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.API.deps.json
+C:\DotNetProjects\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.API.runtimeconfig.json
+C:\DotNetProjects\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.API.runtimeconfig.dev.json
+C:\DotNetProjects\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.API.dll
+C:\DotNetProjects\EFConnect\EFConnect.API\bin\Debug\netcoreapp2.0\EFConnect.API.pdb
+C:\DotNetProjects\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.AssemblyInfoInputs.cache
+C:\DotNetProjects\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.AssemblyInfo.cs
+C:\DotNetProjects\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.dll
+C:\DotNetProjects\EFConnect\EFConnect.API\obj\Debug\netcoreapp2.0\EFConnect.API.pdb
